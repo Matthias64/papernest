@@ -51,7 +51,6 @@ Running Tests
 
 Set the test DB environment variable  ::
 
-    set FLASK_APP=papernest.py
     set DATABASE_URL_TEST=postgres://postgres:password@localhost:5433/papernesttest
 
 
