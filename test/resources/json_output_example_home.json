@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "version": "draft",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.495001,
+          43.474606
+        ]
+      },
+      "properties": {
+        "label": "Impasse de l'Aran 64600 Anglet",
+        "score": 0.9602536363636363,
+        "id": "64024_0088",
+        "name": "Impasse de l'Aran",
+        "postcode": "64600",
+        "citycode": "64024",
+        "x": 336345.82,
+        "y": 6274299.32,
+        "city": "Anglet",
+        "context": "64, Pyrénées-Atlantiques, Nouvelle-Aquitaine",
+        "importance": 0.56279,
+        "type": "street"
+      }
+    }
+  ],
+  "attribution": "BAN",
+  "licence": "ETALAB-2.0",
+  "query": "impasse+de+l+aran+64600+anglet",
+  "limit": 5
+}
